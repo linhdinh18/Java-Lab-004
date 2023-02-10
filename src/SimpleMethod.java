@@ -14,6 +14,6 @@ public class SimpleMethod {
 
     public static void main(String[] args) {
         // This is the method call, create the square method.
-        square(5);
+        square(25);
     }
 }
